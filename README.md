@@ -1,6 +1,9 @@
 <h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">! Blz ?</h1>
 
-![hello](https://media.giphy.com/media/zeGiepd7kpG5HfZbnM/giphy.gif)
+<div align="center">
+
+  ![hello](https://media.giphy.com/media/zeGiepd7kpG5HfZbnM/giphy.gif)
+</div>
 
 ## 💡 Sobre mim :
  - *Me chamo Felix e sou de Maceió - Alagoas* 

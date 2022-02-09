@@ -12,7 +12,7 @@
  
  - *Apaixonado por Desenvolvimento Web, em especial por Front End 💙* 
   
- - *Software Developer na [Nave.rs](https://nave.rs/) 🚀*
+ - *Font-end Developer na [Nave.rs](https://nave.rs/) 🚀*
  
 
 ## 🔮 Minha Stack
@@ -40,5 +40,5 @@
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
 
 <div align="center">
-<a href="https://github.com/felixstenian"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/felix_stenian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://felixstenian.github.io/site/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>  <a href="mailto:felixstenian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/felixstenian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/felixstenian"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/felix_stenian" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://felix-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>  <a href="mailto:felixstenian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/felixstenian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

@@ -1,9 +1,4 @@
-<h1 align="center" >Fala Dev, Blz ?</h1>
-
-<div align="center">
-
-  ![hello](https://media.giphy.com/media/zeGiepd7kpG5HfZbnM/giphy.gif)
-</div>
+<h1 align="center" >E aí, Blz ?</h1>
 
 ## 💡 Sobre mim :
  - *Me chamo Felix e sou de Maceió - Alagoas* 

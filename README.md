@@ -6,9 +6,7 @@
  - *Sou formado em Sistemas para internet pela Universidade Estadual de Ciências da Saúde de Alagoas* 
  
  - *Apaixonado por Desenvolvimento Web, em especial por Front End 💙* 
-  
- - *Font-end Developer na [Nave.rs](https://nave.rs/) 🚀*
- 
+   
 
 ## 🔮 Minha Stack
  Essas são algumas das tecnologias que uso atualmente no dia a dia

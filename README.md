@@ -79,7 +79,10 @@ In addition to being a skilled developer, I am also passionate about sharing my 
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felixstenian&layout=compact&langs_count=8&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixstenian&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felixstenian&theme=github_dark) |
 | :-: | :-: | :-: |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixstenian&theme=github_dark) 
+<div align="center">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixstenian&theme=github_dark) 
+</div>
 
 
 ## :speech_balloon: Contact  

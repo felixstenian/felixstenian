@@ -18,12 +18,12 @@
 
 <div align="center">
   
-  Olá!! Eu sou o [**Felix, Stenian**](https://felixstenian.github.io/site) :wave:😊
+  Olá!! Eu sou o [**Felix, Stenian**](https://felix.tec.br) :wave:😊
 
 </div>
 
 <br>
-Sou Software Developer com mais de 4 anos de experiência.
+Sou Software Developer com mais de 5 anos de experiência.
 
 Tenho experiência em diferentes áreas da TI, minha trajetória profissional inclui funções em desenvolvimento Front-end e Back-end, assistente de infraestrutura em TI e analista de desenvolvimento.
 
@@ -42,11 +42,11 @@ Além de ser um desenvolvedor habilidoso, também sou apaixonado por compartilha
 
 <div align="center">
 
-  Hey there!! I am [**Felix, Stenian**](https://felixstenian.github.io/site) :wave:😊
+  Hey there!! I am [**Felix, Stenian**](https://felix.tec.br) :wave:😊
 </div>
 
 <br>
-I am a Software Developer with over 4 years of experience.
+I am a Software Developer with over 5 years of experience.
 
 I have experience in different areas of IT, including Front-end and Back-end development, IT infrastructure assistance, and development analysis.
 
